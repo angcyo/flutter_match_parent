@@ -31,7 +31,7 @@ bool matchWidth;
 bool matchHeight;
 ```
 
-## license
+## License
 
 MIT License
 
